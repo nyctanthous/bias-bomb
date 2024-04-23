@@ -7,4 +7,4 @@ Focuses on label aversion with shallow selection on surrogate victims.
 
 This project was designed to run Synthea's Covid 19 dataset. At the current time, you can download it at https://synthea.mitre.org/downloads. The 10K entry varient was used for this program.
 
-First, process the Covid-19 data by executing all cells in the `dataset` notebook. Then, switch to the `bias` notebook to perform Ma 
+First, process the Covid-19 data by executing all cells in the `dataset` notebook. Then, switch to the `bias` notebook to perform a replication of Ma et al's label aversion with shallow selection on surrogate victims attack.
